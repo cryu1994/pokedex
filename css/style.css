@@ -1,0 +1,15 @@
+.info{
+  height: 330px;
+  width: 200px;
+  border: 20px solid red;
+  margin: 20px 40px 40px 900px;
+  position: fixed;
+  bottom: 100px;
+}
+.row{
+  width: 850px;
+  height: auto;
+  margin: 5px;
+  border: 3px solid grey;
+
+}
